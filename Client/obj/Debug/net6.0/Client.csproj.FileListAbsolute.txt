@@ -1,0 +1,17 @@
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/Client
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/Client.deps.json
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/Client.dll
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/ref/Client.dll
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/Client.pdb
+/home/falah/RiderProjects/IdentityServer/Client/bin/Debug/net6.0/IdentityModel.dll
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.dll
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/ref/Client.dll
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.pdb
+/home/falah/RiderProjects/IdentityServer/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
