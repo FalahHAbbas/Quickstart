@@ -13,10 +13,22 @@ if (disco.IsError) {
     return;
 }
 
+
+/*
+ *
+ http://localhost:5000/connect/authorize?
+ client_id=js
+ redirect_uri=http%3A%2F%2Fgoogle.com
+ response_type=id_token%20token
+ scope=openid%20profile%20cinema
+ state=a96df82c3d8546c38d841a0a0109c967
+ nonce=93056686e50442f8a97cc64f75305b1e
+ */
+
 // request token
 var tokenResponse = await client.RequestClientCredentialsTokenAsync(
     new ClientCredentialsTokenRequest {
-        Address = disco.TokenEndpoint, ClientId = "client", ClientSecret = "secret", Scope = "api1"
+        Address = disco.TokenEndpoint, ClientId = "client", ClientSecret = "secret", Scope = "cinema"
     });
 
 if (tokenResponse.IsError) {

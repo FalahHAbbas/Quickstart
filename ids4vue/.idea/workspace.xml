@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b000eb7-96f5-42e9-9a2e-abbac9f61f67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Front/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/.idea/Front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/ref/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/bin/Debug/net6.0/ref/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/ref/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/obj/Debug/net6.0/ref/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../Api/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/bin/Debug/net6.0/Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/bin/Debug/net6.0/Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/bin/Debug/net6.0/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/bin/Debug/net6.0/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net6.0/Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net6.0/Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/obj/Debug/net6.0/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/obj/Debug/net6.0/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/Config.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/Config.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/IdentityServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/IdentityServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/ref/IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/bin/Debug/net6.0/ref/IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/IdentityServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/IdentityServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/ref/IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/obj/Debug/net6.0/ref/IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityServer/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityServer/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23v3ZzFcF3gXUBMgJZvtEOoM222" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b000eb7-96f5-42e9-9a2e-abbac9f61f67" name="Changes" comment="" />
+      <created>1642600794441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642600794441</updated>
+      <workItem from="1642600795589" duration="7887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

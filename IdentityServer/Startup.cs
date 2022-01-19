@@ -20,7 +20,12 @@ namespace IdentityServer {
                 .AddDeveloperSigningCredential()        //This is for dev only scenarios when you don’t have a certificate to use.
                 .AddInMemoryApiScopes(Config.ApiScopes)
                 .AddInMemoryClients(Config.Clients);
-
+            services.AddCors(options => {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+            });
         }
 
         public void Configure(IApplicationBuilder app) {
@@ -31,7 +36,7 @@ namespace IdentityServer {
             // uncomment if you want to add MVC
             //app.UseStaticFiles();
             //app.UseRouting();
-
+            app.UseCors("CorsPolicy");
             app.UseIdentityServer();
 
             // uncomment, if you want to add MVC
